@@ -3,6 +3,7 @@
 #include <linux/kernel.h>
 #include <linux/fs.h>
 #include <asm/uaccess.h>
+
 MODULE_LICENSE(“GPL”);
 MODULE_AUTHOR(“Robert W. Oliver II”);
 MODULE_DESCRIPTION(“A simple example Linux module.”);
